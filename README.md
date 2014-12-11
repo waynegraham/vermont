@@ -11,8 +11,10 @@ This script uses [Ruby](https://www.ruby-lang.org) and needs [git](http://git-sc
 
 * Clone or [download](https://github.com/waynegraham/vermont/archive/master.zip) the repository.
 
-  $ git clone https://github.com/waynegraham/vermont.git
-  $ cd vermont
+```
+$ git clone https://github.com/waynegraham/vermont.git
+$ cd vermont
+```
 
 ### Python
 
@@ -27,7 +29,9 @@ This will find all XML documents in that directory.
 
 In the terminal, run the script:
 
-  $ python convert.py
+```
+$ python convert.py
+```
 
 This will create a file named `records.xml` of the flattend records in
 the XML files that can be easily imported in to Access.
@@ -44,7 +48,9 @@ This will find all XML documents in that directory.
 
 In the terminal, run the script:
 
-  $ ruby convert.rb
+```
+$ ruby convert.rb
+```
 
 This will create a file named `records.xml` of the flattend records in
 the XML files that can be easily imported in to Access.
