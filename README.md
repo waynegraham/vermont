@@ -6,7 +6,7 @@ the Ruby version requires [Nokogiri](http://www.nokogiri.org/tutorials/installin
 
 ## Installation
 
-This script uses [Ruby](https://www.ruby-lang.org) and needs [git](http://git-scm.com) to run.
+This script uses Python or [Ruby](https://www.ruby-lang.org) and you'll need [git](http://git-scm.com) too if you're cloning the code.
 
 
 * Clone or [download](https://github.com/waynegraham/vermont/archive/master.zip) the repository.
